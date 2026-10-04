@@ -1,0 +1,6 @@
+{
+  "name": "Blind Spot Mirror",
+  "description": "See what your reasoning might be missing. A thoughtful decision-reflection tool that helps you identify blind spots and unstated assumptions without making the decision for you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
