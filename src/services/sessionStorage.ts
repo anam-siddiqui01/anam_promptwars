@@ -12,7 +12,7 @@ import { canTransitionToPhase } from '../utils/mirrorLogic';
 
 const STORAGE_KEY = 'blind_spot_mirror_sessions_v1';
 const ACTIVE_SESSION_KEY = 'blind_spot_mirror_active_session_id_v1';
-const DEFAULT_API_TIMEOUT_MS = 28000;
+const DEFAULT_API_TIMEOUT_MS = 45000;
 
 export interface MirrorApiResponse {
   mirror: MirrorAnalysis;
